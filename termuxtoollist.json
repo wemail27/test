@@ -1,1 +1,1 @@
-r
+[{"owner":"Admin","code":"$ apt update \n$ apt upgrade \n$ apt install python \n$ pip install wordlist","use":"$ wordlist -h [to see all options] \n$ wordlist -m 4 -M 6 -o wordlist.txt 12345678 \n-m \u003d minimum length, \n-M \u003d maximum length, \nwordlist.txt is output file, \n12345678 \u003d here you can provide your own alphabets. \n\nNow open this file type this command : $ cat wordlist.txt","name":"Wordlist Generator","link":"","disc":"Generate wordlist using Python.","category":"Exploitation"}]
